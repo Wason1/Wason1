@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wason1 (Jason Whittle)
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning SQL and CCL.
+- 🌱 I’m currently learning python, SQL and CCL.
 
 
 <!---
